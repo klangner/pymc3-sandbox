@@ -1,2 +1,4 @@
 pymc3
 jupyter
+matplotlib
+arviz
